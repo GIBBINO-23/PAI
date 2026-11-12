@@ -1,0 +1,6 @@
+{
+  "name": "PayWise AI",
+  "description": "AI-powered PayPal financial copilot with QR scam protection, smart shopping cart, biometric checkout, split payments, and loan payoff tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
